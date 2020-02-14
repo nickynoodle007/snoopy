@@ -1,0 +1,16 @@
+{
+  "name": "killerqueen",
+  "version": "1.0.0",
+  "description": "snoopy the cat is very fat he is a cat he sleeps on mats",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "scraat",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dotenv": "^8.2.0",
+    "ms": "^2.1.2"
+  }
+}
