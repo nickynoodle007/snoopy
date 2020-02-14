@@ -154,8 +154,4 @@ bot.on('message', msg => {
         }
     }
 })
-
-bot.on('error', err => {
-    console.log(err);
-});
 bot.login(token);
